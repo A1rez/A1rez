@@ -10,6 +10,6 @@ Languages: Python
 
 Fun fact about me: I'm also a martial arts enthusiast. I can fight judo, boxing, muay thai and jiu-jitsu. 
 
-Contact me
--[Linkedin]: https://www.linkedin.com/in/jeyson-aires-4954361a5/
--[e-mail]: jeyson.clementino@ufpe.br
+##Contact me
+-[Linkedin] (https://www.linkedin.com/in/jeyson-aires-4954361a5/)
+-[e-mail] (jeyson.clementino@ufpe.br)
