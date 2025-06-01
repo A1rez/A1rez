@@ -6,7 +6,7 @@ I'm finishing my bachelor degree on production engineer and specialiazed on agil
 Currently working on the IT department of the city hall on my hometown.
 
 Abilities: Leadership, Agile methodology, Kanbhan, Data analysis
-Languages: Python, Golang
+Languages: Python, Golang, pOWER bi
 
 Fun fact about me: I'm also a martial arts enthusiast. I can fight judo, boxing, muay thai and jiu-jitsu. 
 
